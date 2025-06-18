@@ -1,0 +1,116 @@
+[
+  {
+    "id": "town_hall",
+    "label": "Hôtel de ville",
+    "type": "principal",
+    "description": "Centre de la ville, limite les niveaux des autres bâtiments."
+  },
+  {
+    "id": "farm",
+    "label": "Ferme",
+    "type": "economy",
+    "produces": "food"
+  },
+  {
+    "id": "lumber_mill",
+    "label": "Scierie",
+    "type": "economy",
+    "produces": "wood"
+  },
+  {
+    "id": "quarry",
+    "label": "Carrière",
+    "type": "economy",
+    "produces": "stone"
+  },
+  {
+    "id": "gold_mine",
+    "label": "Mine d'or",
+    "type": "economy",
+    "produces": "gold"
+  },
+  {
+    "id": "storehouse",
+    "label": "Entrepôt",
+    "type": "storage",
+    "description": "Protège une partie des ressources contre les pillages."
+  },
+  {
+    "id": "barracks",
+    "label": "Casernes",
+    "type": "military",
+    "trains": "infantry"
+  },
+  {
+    "id": "stable",
+    "label": "Écurie",
+    "type": "military",
+    "trains": "cavalry"
+  },
+  {
+    "id": "archery_range",
+    "label": "Champ de tir",
+    "type": "military",
+    "trains": "archers"
+  },
+  {
+    "id": "siege_workshop",
+    "label": "Atelier de siège",
+    "type": "military",
+    "trains": "siege_units"
+  },
+  {
+    "id": "hospital",
+    "label": "Hôpital",
+    "type": "support",
+    "description": "Soigne les troupes blessées."
+  },
+  {
+    "id": "academy",
+    "label": "Académie",
+    "type": "technology",
+    "description": "Permet de rechercher des technologies pour améliorer la ville et les troupes."
+  },
+  {
+    "id": "tavern",
+    "label": "Taverne",
+    "type": "commanders",
+    "description": "Permet de recruter des commandants ou d'ouvrir des coffres avec des clés."
+  },
+  {
+    "id": "alliance_center",
+    "label": "Centre de l'Alliance",
+    "type": "social",
+    "description": "Améliore l'aide reçue par les alliés et les dons technologiques."
+  },
+  {
+    "id": "watchtower",
+    "label": "Tour de guet",
+    "type": "defense",
+    "description": "Défend la ville automatiquement lors d'une attaque."
+  },
+  {
+    "id": "wall",
+    "label": "Muraille",
+    "type": "defense",
+    "description": "Protège la ville. Sa réparation est nécessaire après une attaque."
+  },
+  {
+    "id": "trading_post",
+    "label": "Marché",
+    "type": "economy",
+    "description": "Permet d'envoyer des ressources à d'autres gouverneurs."
+  },
+  {
+    "id": "courier_station",
+    "label": "Courrier diplomatique",
+    "type": "logistics",
+    "description": "Affiche les messages système et rapports divers."
+  },
+  {
+    "id": "statue",
+    "label": "Statue de commandant",
+    "type": "cosmetic",
+    "description": "Affiche le commandant favori dans la ville."
+  }
+]
